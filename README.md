@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nicole Berreth
+- 👋 Hi, I’m Nicole Berreth (@NicoleRus)
 - 👀 I’m interested in HTML, CSS, Javascript and anything front-end.
 - 🌱 I’m currently learning Vue, CSS, Nuxt.
 - 📫 You can email me at NicoleRBerreth@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/nicole-berreth/)
