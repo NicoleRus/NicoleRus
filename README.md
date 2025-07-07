@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nicole Berreth (@NicoleRus)
 - 👀 I’m interested in HTML, CSS, Javascript and anything front-end.
-- 🌱 I’m currently learning the latest features in CSS and Angular.
+- 🌱 I’m currently getting Nova Angular up to date with the latest in the Angular Renaissance and learning Flutter by creating a mobile app that could be used by my gym.
 - 📫 You can email me at NicoleRBerreth@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/nicole-berreth/)
-- 💸 💻 I'm currently a Design Engineer at Visa and loving it!
+- 💸 💻 I'm currently a Senior Design Engineer at Visa and loving it!
 - 🌎 Outside of work I'm involved in several church activities, always trying new ways to be active, and spending time with my friends and family!
